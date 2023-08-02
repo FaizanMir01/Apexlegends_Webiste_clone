@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family:Apex-font;
-    src: url(/apex/Apex-Font/Apex\ Regular.otf);
+    src: url(./Apex-Font/Apex\ Regular.otf);
 }
 /**navbar**/
 .navbar{
