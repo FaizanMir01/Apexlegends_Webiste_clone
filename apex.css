@@ -48,7 +48,7 @@
 /**section first**/
 .container1{
     height: 530px;
-    background:linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%),url(/apex/backg.jpg);
+    background:linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%),url(./apex/backg.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -94,7 +94,7 @@
 /** section second **/
 .container2{
     height: 430px;
-    background-image: url(/apex/firstsection.jpg);
+    background-image: url(./apex/firstsection.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -137,7 +137,7 @@
 /** section third **/
 .container3{
     height: 430px;
-    background-image: url(/apex/secondsection.jpg);
+    background-image: url(./apex/secondsection.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -180,7 +180,7 @@
 
 .container4{
     height: 840px;
-    background-image: url(/apex/back3.jpg);
+    background-image: url(./apex/back3.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -223,7 +223,7 @@
 /** section fifth **/
 .container5{
     height: 700px;
-    background-image: url(/apex/forthsec.jpg);
+    background-image: url(./apex/forthsec.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -265,7 +265,7 @@
 /** section sixth **/
 .container6{
     height: 630px;
-    background-image: url(/apex/back3.jpg);
+    background-image: url(./apex/back3.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -353,7 +353,7 @@
 /** section seeventh **/
 .container7{
     height: 510px;
-    background-image: url(/apex/black.jpg);
+    background-image: url(./apex/black.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
